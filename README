@@ -27,8 +27,3 @@ The goal of this project is to design, document, and present a complete system s
 2. **Use Case & Activity Diagrams** – Model system interactions and workflows.
 3. **Data Modeling** – Create ERDs and database schema.
 4. **System Design Document** – Finalize the system architecture and implementation plan.
-
-## 📖 How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tpienkowski82/CS-255.git
