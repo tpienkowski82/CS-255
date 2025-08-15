@@ -1,0 +1,34 @@
+# CS-255: System Analysis and Design
+
+## 📌 Project Overview
+This repository contains my coursework and project files for **CS-255: System Analysis and Design** at Southern New Hampshire University (SNHU).  
+The goal of this project is to design, document, and present a complete system solution using industry-standard system analysis and design principles.
+
+## 🎯 Learning Objectives
+- Apply system development life cycle (SDLC) concepts.
+- Create functional and non-functional requirements.
+- Develop use case diagrams and descriptions.
+- Design entity relationship diagrams (ERDs) and data flow diagrams (DFDs).
+- Prepare professional-level system design documentation.
+
+## 📂 Repository Contents
+- **/docs** – System design documents, diagrams, and reports.
+- **/src** – Any source code or pseudocode related to the project.
+- **/assets** – Images, diagrams, or reference materials.
+- **README.md** – Project overview and documentation (this file).
+
+## 🛠 Tools & Technologies
+- **Modeling Tools:** Lucidchart / draw.io / Microsoft Visio
+- **Documentation:** Microsoft Word / Google Docs
+- **Version Control:** Git & GitHub
+
+## 📅 Project Milestones
+1. **Business Requirements Document (BRD)** – Define the problem and project scope.
+2. **Use Case & Activity Diagrams** – Model system interactions and workflows.
+3. **Data Modeling** – Create ERDs and database schema.
+4. **System Design Document** – Finalize the system architecture and implementation plan.
+
+## 📖 How to Use This Repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tpienkowski82/CS-255.git
