@@ -1,29 +1,38 @@
-# CS-255: System Analysis and Design
+# CS 255 – System Analysis and Design Reflection  
 
-## 📌 Project Overview
-This repository contains my coursework and project files for **CS-255: System Analysis and Design** at Southern New Hampshire University (SNHU).  
-The goal of this project is to design, document, and present a complete system solution using industry-standard system analysis and design principles.
+## Client and Project Summary
+The client was **DriverPass**, a company that wanted a system to help customers prepare for their driving exams.  
+They required a web-based platform that allowed students to:  
+- Access study materials and practice tests.  
+- Schedule driving lessons with instructors.  
+- Track their progress and performance.  
 
-## 🎯 Learning Objectives
-- Apply system development life cycle (SDLC) concepts.
-- Create functional and non-functional requirements.
-- Develop use case diagrams and descriptions.
-- Design entity relationship diagrams (ERDs) and data flow diagrams (DFDs).
-- Prepare professional-level system design documentation.
+The system needed to be secure, scalable, and user-friendly, ensuring reliable data storage and integration between the online learning resources and lesson scheduling.
 
-## 📂 Repository Contents
-- **/docs** – System design documents, diagrams, and reports.
-- **/src** – Any source code or pseudocode related to the project.
-- **/assets** – Images, diagrams, or reference materials.
-- **README.md** – Project overview and documentation (this file).
+---
 
-## 🛠 Tools & Technologies
-- **Modeling Tools:** Lucidchart / draw.io / Microsoft Visio
-- **Documentation:** Microsoft Word / Google Docs
-- **Version Control:** Git & GitHub
+## Strengths in My Work
+I did particularly well in **capturing clear business requirements** and translating them into system requirements. My documentation included both **functional requirements** (like test scheduling and practice exams) and **non-functional requirements** (like system security and scalability). This helped ensure the client’s expectations were fully represented.  
 
-## 📅 Project Milestones
-1. **Business Requirements Document (BRD)** – Define the problem and project scope.
-2. **Use Case & Activity Diagrams** – Model system interactions and workflows.
-3. **Data Modeling** – Create ERDs and database schema.
-4. **System Design Document** – Finalize the system architecture and implementation plan.
+---
+
+## Area I Would Revise
+If I could revise one part of my work, I would expand on the **system diagrams**. While I documented requirements thoroughly, I could have created more detailed diagrams showing how data flows between subsystems. This would make it easier for developers and stakeholders to visualize how the system works.  
+
+---
+
+## Interpreting User Needs
+The DriverPass users needed a convenient and effective way to prepare for driving exams. I interpreted this by designing a system that combined **educational content** with **lesson scheduling** in a single platform. Considering user needs is critical because a system that doesn’t align with actual user expectations will fail, even if it is technically sound.  
+
+---
+
+## Approach to System Design
+I approached system design by first analyzing the **business requirements** and then translating them into technical specifications. I identified constraints, created use case diagrams, and documented both high-level and detailed requirements.  
+
+In the future, I would continue using this structured approach but also incorporate more **iterative design techniques**, such as Agile-based prototyping, to gather feedback earlier and refine designs more quickly.  
+
+---
+
+## Submission Notes
+This README serves as my reflection on the **business requirements document** and **system design document** for DriverPass.  
+Both documents are included in this repository.  
