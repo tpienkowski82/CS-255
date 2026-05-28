@@ -1,38 +1,37 @@
-# CS 255 – System Analysis and Design Reflection  
+# CS 255 System Analysis and Design Reflection
 
 ## Client and Project Summary
-The client was **DriverPass**, a company that wanted a system to help customers prepare for their driving exams.  
-They required a web-based platform that allowed students to:  
-- Access study materials and practice tests.  
-- Schedule driving lessons with instructors.  
-- Track their progress and performance.  
 
-The system needed to be secure, scalable, and user-friendly, ensuring reliable data storage and integration between the online learning resources and lesson scheduling.
+The client for this project was **DriverPass**, a company that wanted a system to help customers prepare for their driving exams. DriverPass needed a web-based platform that would allow students to access study materials, take practice tests, schedule driving lessons with instructors, and track their progress.
 
----
+The system also needed to be secure, scalable, and user-friendly. It had to support reliable data storage and connect the online learning resources with the lesson scheduling features.
 
 ## Strengths in My Work
-I did particularly well in **capturing clear business requirements** and translating them into system requirements. My documentation included both **functional requirements** (like test scheduling and practice exams) and **non-functional requirements** (like system security and scalability). This helped ensure the client’s expectations were fully represented.  
 
----
+One area I did well in was capturing clear business requirements and translating them into system requirements. My documentation included both **functional requirements**, such as test scheduling and practice exams, and **non-functional requirements**, such as security and scalability.
+
+This helped make sure the client’s expectations were clearly represented and that the system design supported the main goals of the project.
 
 ## Area I Would Revise
-If I could revise one part of my work, I would expand on the **system diagrams**. While I documented requirements thoroughly, I could have created more detailed diagrams showing how data flows between subsystems. This would make it easier for developers and stakeholders to visualize how the system works.  
 
----
+If I could revise one part of my work, I would improve the system diagrams. While I documented the requirements clearly, I could have created more detailed diagrams showing how data moves between different parts of the system.
+
+Adding more detail to the diagrams would make it easier for developers and stakeholders to understand how the system works and how each part connects.
 
 ## Interpreting User Needs
-The DriverPass users needed a convenient and effective way to prepare for driving exams. I interpreted this by designing a system that combined **educational content** with **lesson scheduling** in a single platform. Considering user needs is critical because a system that doesn’t align with actual user expectations will fail, even if it is technically sound.  
 
----
+The users of DriverPass needed a convenient and effective way to prepare for driving exams. I interpreted this need by designing a system that combined educational materials, practice tests, scheduling, and progress tracking in one platform.
+
+Considering user needs is important because a system must solve the actual problems users face. Even if a system works technically, it may not be successful if it does not match what users need or expect.
 
 ## Approach to System Design
-I approached system design by first analyzing the **business requirements** and then translating them into technical specifications. I identified constraints, created use case diagrams, and documented both high-level and detailed requirements.  
 
-In the future, I would continue using this structured approach but also incorporate more **iterative design techniques**, such as Agile-based prototyping, to gather feedback earlier and refine designs more quickly.  
+I approached the system design process by first reviewing the business requirements and then turning them into technical specifications. I identified the main system features, documented requirements, and created diagrams to show how users would interact with the system.
 
----
+In the future, I would continue using this structured approach, but I would also include more iterative design techniques. For example, using Agile-style feedback and prototypes would help improve the design earlier in the process.
 
 ## Submission Notes
-This README serves as my reflection on the **business requirements document** and **system design document** for DriverPass.  
-Both documents are included in this repository.  
+
+This README serves as my reflection on the **business requirements document** and **system design document** for the DriverPass project.
+
+Both documents are included in this repository.
